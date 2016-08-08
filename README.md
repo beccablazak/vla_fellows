@@ -5,12 +5,13 @@
 <p> Free or low-cost legal services are in high demand and are provided by a mix of public, private and community organisations. Each of these pathways to free legal help varies in service offerings, eligibility criteria, entry points, and referral pathways. Over the next 6 months, our team will being digging into the user expereince of receiving legal aid and looking for ways to improve client access.
 </p>
 <h2>Meet the Team</h2>
-<h3>Christian Arevalo</h3>
-<p>Christian is a software engineer graduate of computer science from Politécnico Grancolombiano. He is passionate about web development technologies.</p>
-<h3>Rikke Winther-Sørensen</h3>
-<p>Rikke is a Product Design Engineer with a passion for product development focusing on context and user experience.</p>
-<h3>Becca Blazak</h3>
-<p>Becca is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.</p>
+
+|   | Bio |
+| ------------- | ------------- |
+| <img src="https://trello-avatars.s3.amazonaws.com/387b53191475ff5049d9f9d84a8632d0/original.png" width="200" heigh="200"/>  | `Becca Blazak` is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.  [LinkedIn](https://www.linkedin.com/in/rebeccablazak)   |
+| <img src="https://trello-attachments.s3.amazonaws.com/57881f8a10f2787c346b13bd/500x500/d9f3609d93be1faa77248c5e10108491/profile_pic.jpg" width="200" heigh="200"/>  | `Rikke Winther-Sørensen` is a Product Design Engineer with a passion for product development focusing on context and user experience.    [LinkedIn](https://www.linkedin.com/in/rikkewin) |
+| <img src="https://trello-attachments.s3.amazonaws.com/5795b54a221de90af533202b/1431x1489/35ba81fe561535ba5ee84e6f553beac3/Christian_Arevalo.jpeg" width="200" heigh="200"/>  | `Christian Arévalo` is a software engineer graduate of computer science from Politécnico Grancolombiano. He is passionate about web development technologies.   [LinkedIn](https://au.linkedin.com/in/christianaq)|
+
 <h2>Our Approach</h2>
 <p>Using data-driven, user-centred, and iterative methods, we will work in short cycles called sprints. Sprints vary in length and outcome, and are defined as we go. We'll be talking with various stakeholders and using common design research methods such as journey mapping, developing personas, and creating case studies to better understand barriers for citizens, as well as legal aid employees. We'll be woring in the open--literally, we're sitting at a table on the 16th floor-- and sharing our methods with teams across legal aid. In addition, you can follow our progress and findings on our team blog and at monthly open houses at the Code for Australia offices.
 </p>
