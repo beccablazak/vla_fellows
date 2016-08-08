@@ -2,7 +2,7 @@
 <h2>Who is Code for Australia</h2>
 <p>Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. Code for Australia believes that user centered design and agile development processes can help government better drive collaboration and transparency, accelerate economic growth, and reanimate citizenship. We're here to help!</p>
 <h2>The Challenge</h2>
-<p> Free or low-cost legal services are in high demand and are provided by a mix of public, private and community organisations. Each of these pathways to free legal help varies in service offerings, eligibility criteria, entry points, and referral pathways. Over the next 6 months, our team will being digging into the user expereince of receiving legal aid and looking for ways to improve client access.
+<p> Free or low-cost legal services are in high demand and are provided by a mix of public, private and community organisations. Each of these pathways to free legal help varies in service offerings, eligibility criteria, entry points, and referral pathways. Over the next 6 months, our team will being digging into the user experience of receiving referrels and looking for ways to improve client access.
 </p>
 <h2>Meet the Team</h2>
 
@@ -20,5 +20,7 @@
 <h2>Contact Us</h2>
 <p>Questions? Email us at <a href="vla_fellows@codeforaustralia.org"> vla_fellows@codeforaustralia.org</a></p>
 <h2>Legal Aid Sponsors</h2>
-<p><strong>Khoi CaoLam & Toby Verey</strong></p>
+<p><strong>Martin Edwards & Jon Cila</strong></p>
+<h2>Legal Aid Contact Persons</h2>
+<p> <strong>Khoi CaoLam & Toby Verey</strong></p>
 
