@@ -1,6 +1,6 @@
 <h1>We are team VLA</h1>
 <h2>Who is Code for Australia</h2>
-<p>Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. Code for Australia believes that user centered design and agile development processes can help government can better drive collaboration and transparency, accelerate economic growth and reanimate citizenship. We're here to help!</p>
+<p>Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. Code for Australia believes that user centered design and agile development processes can help government better drive collaboration and transparency, accelerate economic growth, and reanimate citizenship. We're here to help!</p>
 <h2>The Challenge</h2>
 <p> Free or low-cost legal services are in high demand and are provided by a mix of public, private and community organisations. Each of these pathways to free legal help varies in service offerings, eligibility criteria, entry points, and referral pathways. Over the next 6 months, our team will being digging into the user expereince of receiving legal aid and looking for ways to improve client access.
 </p>
