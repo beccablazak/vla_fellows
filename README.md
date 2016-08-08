@@ -15,10 +15,9 @@
 <p>
 </p>
 <h2>Timeline</h2>
-<p> As described in the section above, we'll be working in an agile and iterative fashion, conisting of 1-4 week sprints over the course of our 6 months here. We will be regularly moving through a cycle of research, protoyping, and user testing--each cycle defined as we go. Have a question? We have answers! Email us at vla_fellows@codeforaustralia.org to learn more about what we're up to.
-</p>
+<p> As described in the section above, we'll be working in an agile and iterative fashion, conisting of 1-4 week sprints over the course of our 6 months here. We will be regularly moving through a cycle of research, protoyping, and user testing--each cycle defined as we go. </p>
 <h2>Contact Us</h2>
-<p>Questions? Email us at vla_fellows@codeforaustralia.org</p>
+<p>Questions? Email us at <a href="vla_fellows@codeforaustralia.org"> vla_fellows@codeforaustralia.org</a></p>
 <h2>Legal Aid Sponsors</h2>
 <p><strong>Khoi CaoLam & Toby Verey</strong></p>
 
