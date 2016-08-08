@@ -2,11 +2,12 @@
 <h2>Who is Code for Australia</h2>
 <p>Code for Australia is a non-profit organization who works with government to develop tech-based solutions to solve civic-problems. Code for Australia believes that user centered design and agile development processes can help government can better drive collaboration and transparency, accelerate economic growth and reanimate citizenship. We're here to help!</p>
 <h2>Meet the Team</h2>
-
-<img src="https://trello-attachments.s3.amazonaws.com/5795b54a221de90af533202b/1431x1489/35ba81fe561535ba5ee84e6f553beac3/Christian_Arevalo.jpeg" height="200" width="200" />  
-
-<img src="https://trello-attachments.s3.amazonaws.com/577f278800d5794b66d7729d/251x250/548d66e7925112ed01d0385b1481ffd4/Screen_Shot_2016-07-08_at_11.04.26_AM.png" height="200" width="200" />
-
-<img src="https://trello-attachments.s3.amazonaws.com/57881f8a10f2787c346b13bd/500x500/d9f3609d93be1faa77248c5e10108491/profile_pic.jpg" height="200" width="200" />
-
+<h3>Christian Arevalo</h3>
+<p>Christian is a software engineer graduate of computer science from Politécnico Grancolombiano. He is passionate about web development technologies.</p>
+<h3>Rikke Winters-Sørensen</h3>
+<p>Rikke is a Product Design Engineer with a passion for product development focusing on context and user experience.</p>
+<h3>Becca Blazak</h3>
+<p>Becca is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.</p>
+<h2>Legal Aid Sponsors</h2>
+<h3>Khoi CaoLam & Toby Verey</h3>
 
