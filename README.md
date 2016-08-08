@@ -11,12 +11,12 @@
 <p>Rikke is a Product Design Engineer with a passion for product development focusing on context and user experience.</p>
 <h3>Becca Blazak</h3>
 <p>Becca is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.</p>
-<h2>Legal Aid Sponsors</h2>
 <h2>Our Approach</h2>
 <p>
 </p>
 <h2>Scope & Timeline</h2>
 <p>
 </p>
-<h3>Khoi CaoLam & Toby Verey</h3>
+<h2>Legal Aid Sponsors</h2>
+<p><strong>Khoi CaoLam & Toby Verey</strong></p>
 
