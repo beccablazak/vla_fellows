@@ -4,7 +4,7 @@
 <h2>Meet the Team</h2>
 <h3>Christian Arevalo</h3>
 <p>Christian is a software engineer graduate of computer science from Politécnico Grancolombiano. He is passionate about web development technologies.</p>
-<h3>Rikke Winters-Sørensen</h3>
+<h3>Rikke Winther-Sørensen</h3>
 <p>Rikke is a Product Design Engineer with a passion for product development focusing on context and user experience.</p>
 <h3>Becca Blazak</h3>
 <p>Becca is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.</p>
