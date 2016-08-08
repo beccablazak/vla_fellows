@@ -12,7 +12,9 @@
 <h3>Becca Blazak</h3>
 <p>Becca is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.</p>
 <h2>Our Approach</h2>
-<p>
+<p>Using data-driven, user-centred, and iterative methods, we will work in short feedback cycles. 
+We wish to make progress and process visible and will use showcases and blog posts to show the work that has been done.
+This way we have short sprint cycles and show our work as part of each sprint.
 </p>
 <h2>Timeline</h2>
 <p> As described in the section above, we'll be working in an agile and iterative fashion, conisting of 1-4 week sprints over the course of our 6 months here. We will be regularly moving through a cycle of research, protoyping, and user testing--each cycle defined as we go. </p>
