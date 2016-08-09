@@ -20,7 +20,12 @@
 <h2>Contact Us</h2>
 <p>Questions? Email us at <a href="vla_fellows@codeforaustralia.org"> vla_fellows@codeforaustralia.org</a></p>
 <h2>Legal Aid Sponsors</h2>
-<p><strong>Martin Edwards & Jon Cila</strong></p>
-<h2>Legal Aid Contact Persons</h2>
-<p> <strong>Khoi CaoLam & Toby Verey</strong></p>
-
+<p><strong>Project Sponsors</strong></p>
+<p>Martin Edwards, CIO</p>
+<p>Jon Cina,Associate Director, Access and Equity </p>
+<br>
+<p><strong>Legal Aid Contact Persons</strong></p>
+<p>Khoi Cao-Lam, Manager, Client Access </p>
+<p>Toby Verey, Senior Policy and Projects Officer</p>
+ 
+ Toby Verey
