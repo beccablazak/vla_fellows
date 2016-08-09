@@ -6,7 +6,7 @@
 </p>
 <h2>Meet the Team</h2>
 
-|   | Bio |
+|   |  |
 | ------------- | ------------- |
 | <img src="https://trello-avatars.s3.amazonaws.com/387b53191475ff5049d9f9d84a8632d0/original.png" width="200" heigh="200"/>  | `Becca Blazak` is a project manager who values efficiency, transparency, and collaboration. She is passionate about finding solutions that work for everyone and working with government to change the way it interacts with its citizens.  [LinkedIn](https://www.linkedin.com/in/rebeccablazak)   |
 | <img src="https://trello-attachments.s3.amazonaws.com/57881f8a10f2787c346b13bd/500x500/d9f3609d93be1faa77248c5e10108491/profile_pic.jpg" width="200" heigh="200"/>  | `Rikke Winther-Sørensen` is a Product Design Engineer with a passion for product development focusing on context and user experience.    [LinkedIn](https://www.linkedin.com/in/rikkewin) |
