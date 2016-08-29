@@ -263,3 +263,10 @@ a {
   width:375px;
   
 }
+#mc_embed_signup label {
+    color: #159957;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 2rem;
+    font-weight: normal;
+    font-size: 1.5em;
+}
